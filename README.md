@@ -6,7 +6,7 @@ When a big circle collides with another big circle, a sound effect produced by t
 
 For this project, I use the IDE Xcode (version 9). You also need to download openframworks and Box2D:
 
-openframeworks
+openFrameworks
 https://openframeworks.cc
 
 the addon Box2d
