@@ -4,11 +4,7 @@ The folder "sounds" contains 55 sound samples in MP3 format, these sound samples
 When a big circle collides with another big circle, a sound effect produced by the piano will appear immediately.
 
 
-For this project, I use the IDE Xcode (version 9). 
-
-Here are the links to openframeworks and to the addon "Box2d"
-
-You also need to download openframworks and Box2D:
+For this project, I use the IDE Xcode (version 9). You also need to download openframworks and Box2D:
 
 openframeworks
 https://openframeworks.cc
